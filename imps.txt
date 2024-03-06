@@ -1,0 +1,12 @@
+https://source.unsplash.com/200x100/?nature,water                            
+
+
+button.btn.btn-primary*3        : for getting 3 buttons
+
+
+my-4             :  for margin
+
+
+d-flex            : for displaying flexbox
+d-flex justify-content-center align-items-center                      
+
